@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: rgb(220, 171, 81);
+}
+
+   #wrap {
+    width: 800px;
+    border: dashed 4px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e8e0c5;
+   } 
+
+   h1 {
+       font-style: italic;
+       font-weight: bold;
+   }
+
+
+   #contents {
+       border: dashed 4px;
+   }
+
+    li {
+        list-style: none;
+        font-style: italic;
+    }
+
+    li::first-letter {
+        font-size: 150%;
+    }
