@@ -1,0 +1,31 @@
+#wrap {
+    display: flex;
+    background-color: #142d4c;
+}
+
+
+#nav {
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    height: 440px;
+    background-color: #9fd3c7;
+}
+
+#content {
+    margin: 10px;
+    text-align: center;
+    background-color: #385170;
+}
+
+#list {
+    list-style: none;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
